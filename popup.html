@@ -1,0 +1,30 @@
+<html>
+   <head>
+       <script type="text/javascript" src = "popup.js">
+ 
+         function startTimer() {
+             setInterval(displayNextImage, 3000);
+         }
+ 
+         var images = [], x = -1;
+         images[0] = "images/alpaca1.jpg";
+         images[1] = "images/corgi1.jpg";
+         images[2] = "images/corgi2.jpg";
+         images[3] = "images/fatcat.jpg";
+         images[4] = "images/fatcat2.jpg";
+         images[5] = "images/giraffe1.jpg";
+         images[6] = "images/hedgehog1.jpg";
+         images[7] = "images/penguins1.jpg";
+         images[8] = "images/pig1.jpg";
+         images[9] = "images/puppy1.jpg";
+         images[10] = "images/puppy2.jpg";
+         images[11] = "images/redpanda1.jpg";
+         images[12] = "images/seal1.jpg";
+   
+       </script>
+   </head>
+    <body>
+       <img id="img" src="images/alpaca1.jpg" width="200" height="200" alt="alpaca1"/>
+       <button id="next" type="button" >Next</button>
+    </body>
+</html>
