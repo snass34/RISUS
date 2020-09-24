@@ -1,5 +1,5 @@
 # RISUS
-## Inspiration:
+## Inspiration
 
 As college students, especially programmers, frustrating online tasks and deadlines are a dread. To relieve some of that stress, we came together and considered what we as students could do to help ourselves and others in similar situations.
 
